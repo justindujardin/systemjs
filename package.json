@@ -9,7 +9,7 @@
   "author": "Guy Bedford",
   "license": "MIT",
   "dependencies": {
-    "es6-module-loader": "^0.17.4",
+    "es6-module-loader": "justindujardin/es6-module-loader.git#typescript-source-maps",
     "when": "^3.7.2"
   },
   "devDependencies": {
